@@ -1,0 +1,3 @@
+Flask
+requests
+git+https://github.com/LuizInacio/pocketoptionapi.git
